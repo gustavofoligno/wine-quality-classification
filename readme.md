@@ -39,7 +39,7 @@ Each wine has **12 chemical features** and a **quality score (0-10)**.
 
 ## Models Tested
 
-We implemented **three classifiers**:
+**Three classifiers**:
 
 1. **Logistic Regression**
 2. **Decision Tree**
@@ -85,7 +85,7 @@ The results were **poor**, proving that red and white wines **require separate m
 1. Clone this repository:
    ```bash
    git clone https://github.com/gustavofoligno/wine-quality-classification.git
-   cd wine-classification
+   cd wine-quality-classification
    ```
 2. Install dependencies:
    ```bash
@@ -101,10 +101,10 @@ The results were **poor**, proving that red and white wines **require separate m
 
 ## 📝 Author & Contact
 
-Created by **Gustavo Barcelos Foligno**
-Email: gustavofoligno@hotmail.com
-LinkedIn: https://www.linkedin.com/in/gustavofoligno/
-GitHub: https://github.com/gustavofoligno
+- Created by **Gustavo Barcelos Foligno**
+- Email: gustavofoligno@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/gustavofoligno/
+- GitHub: https://github.com/gustavofoligno
 
 ---
 
