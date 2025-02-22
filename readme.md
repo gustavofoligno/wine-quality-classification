@@ -84,7 +84,7 @@ The results were **poor**, proving that red and white wines **require separate m
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/wine-classification.git
+   git clone https://github.com/gustavofoligno/wine-quality-classification.git
    cd wine-classification
    ```
 2. Install dependencies:
