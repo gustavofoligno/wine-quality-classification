@@ -67,7 +67,7 @@ Each model was evaluated using:
 
 ## Testing on Red Wines
 
-To test generalization, we **applied the white wine-trained SVM to red wines**.\
+To test generalization, I've **applied the white wine-trained SVM to red wines**.\
 The results were **poor**, proving that red and white wines **require separate models**.
 
 **SVM Model on Red Wines:**
